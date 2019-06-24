@@ -1,0 +1,16 @@
+.verde {
+    background-color: green;
+}
+
+.alinear{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.static{
+    position: absolute;
+    display: flex;
+    bottom: 0;
+    width: 100%;
+}
